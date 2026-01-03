@@ -85,9 +85,8 @@ failed_logins/
 
 ## 📊 Fase 1 – Exploración de Datos y ETL con Pandas
 
-### 📓 Notebooks
-- `limpiardataset.ipynb`
-- `01_pandas.ipynb`
+### 📓 Notebook
+- `01_pandasFinal.ipynb`
 
 ### 🎯 Objetivo
 Transformar un dataset bruto, inconsistente y con problemas de calidad en una **fuente de datos limpia, tipada y lista para análisis**, apta para ser cargada en un **Data Warehouse**.
